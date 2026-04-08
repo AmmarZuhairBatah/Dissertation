@@ -1,0 +1,13 @@
+Participant_ID,Background,AI_Usage,FewShot_Clarity,FewShot_Relevance,FewShot_Helpfulness,FewShot_LowBias,ZeroShot_Clarity,ZeroShot_Relevance,ZeroShot_Helpfulness,ZeroShot_LowBias,CoT_Clarity,CoT_Relevance,CoT_Helpfulness,CoT_LowBias
+P01,CS Student,Daily,4,4,4,4,3,3,3,4,3,3,3,4
+P02,CS Student,Weekly,4,5,4,4,3,3,3,3,3,4,3,3
+P03,Other Student,Daily,4,4,4,4,3,4,3,4,4,4,3,4
+P04,Non-student,Weekly,4,4,3,4,3,3,3,3,3,3,3,3
+P05,CS Student,Monthly,5,4,4,4,4,3,3,4,4,4,4,4
+P06,Other Student,Rarely,3,4,4,4,3,3,3,3,3,3,3,4
+P07,Non-student,Weekly,4,4,4,4,3,3,2,3,3,3,3,3
+P08,CS Student,Daily,4,5,4,4,3,4,3,4,4,4,4,4
+P09,Other Student,Weekly,4,4,3,3,3,3,3,3,3,3,3,3
+P10,Non-student,Monthly,4,4,4,4,3,3,3,4,3,4,3,4
+P11,CS Student,Daily,4,4,4,4,3,3,3,4,3,3,3,3
+P12,Other Student,Weekly,3,4,4,4,3,3,3,3,3,3,3,3

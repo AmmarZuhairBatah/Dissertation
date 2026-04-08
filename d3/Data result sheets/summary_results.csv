@@ -1,0 +1,4 @@
+Dataset,Prompt Type,Accuracy (%),Correct,Total,Avg Latency (s),Avg Tokens
+GSM8K,zero_shot,23.0,23,100,2.95,266.12
+GSM8K,few_shot,30.0,30,100,3.93,404.11
+GSM8K,chain_of_thought,24.0,24,100,2.79,328.12
